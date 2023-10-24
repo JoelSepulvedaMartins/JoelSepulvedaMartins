@@ -69,12 +69,5 @@
   
 </div>
 
-## 
 
-  <div align="center">
-  <h2>🐍 Minhas contribuições 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JoelSepulvedaMartins/JoelSepulvedaMartins/output/github-contribution-grid-snake-dark.svg" />
-  
-  <br/><br/><br/>
-</div>
+   ![SNAKE GIF](https://github.com/JoelSepulvedaMartins/JoelSepulvedaMartins/blob/output/github-contribution-grid-snake.svg)
