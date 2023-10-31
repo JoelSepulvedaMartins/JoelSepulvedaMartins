@@ -35,6 +35,7 @@
   - HTML
 - Linux
 - Information Security
+- Git
 
 📫 **How to reach me:** SepulvedaJoelMatins@outlook.com
 
