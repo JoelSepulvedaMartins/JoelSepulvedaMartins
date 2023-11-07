@@ -6,7 +6,7 @@
 - C++
 - Java
 - Data Science
-- Big Data
+- Big Data(MapReduce Java Hadoop and PySpark)
 - Machine Learning
 - OOP (Object-Oriented Programming)
 - Prolog
