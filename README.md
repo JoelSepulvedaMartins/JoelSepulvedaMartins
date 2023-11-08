@@ -36,6 +36,8 @@
 - Linux
 - Information Security
 - Git
+- [920 Redação Enem (2020)](https://drive.google.com/drive/folders/1DG7TF7Gel3uAK22sewtxYCTiHlkWWFE4?usp=sharing)
+- [920 Redação Enem (2021)](https://drive.google.com/drive/folders/1DG7TF7Gel3uAK22sewtxYCTiHlkWWFE4?usp=sharing)
 
 📫 **How to reach me:** SepulvedaJoelMatins@outlook.com
 
