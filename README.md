@@ -55,7 +55,6 @@
 
   <img align="center" alt="Joel" height="50" width="70" src="https://github.com/JoelSepulvedaMartins/AssetsMain/blob/main/icons8-logo-java-coffee-cup.gif">
   <img align="center" alt="Joel1" height="50" width="100" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt="Joel2" height="50" width="100" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
   <img align="center" alt="Rafa-Python" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
