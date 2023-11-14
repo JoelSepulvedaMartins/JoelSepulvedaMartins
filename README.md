@@ -66,7 +66,7 @@
 
 <div> 
   <a href="https://www.instagram.com/jho_erll/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
+  <a href="https://discord.gg/748264987004502056" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:SepulvedaJoelMatins@outlook.com"><img height="28" width="35" src="https://github.com/JoelSepulvedaMartins/AssetsMain/blob/main/outlook.ico" target="_blank"></a>
   <a href="" target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
