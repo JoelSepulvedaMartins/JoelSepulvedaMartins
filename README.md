@@ -1,4 +1,5 @@
 ### Hi there 👋
+[Currículo (PDF)](https://github.com/JoelSepulvedaMartins/JoelSepulvedaMartins/blob/main/Curriculo.pdf)
 
 🔍 **Sobre mim:**  
 Sou um entusiasta e estudioso de **Inteligência Artificial** e **Ciência de Dados**, com sólida base em programação, matemática aplicada, aprendizado de máquina e desenvolvimento de software. Tenho conhecimento prático e teórico desde a construção de modelos até a aplicação real, com experiência em **redes neurais profundas, transformers, GANs, processamento de dados em larga escala** e muito mais.
