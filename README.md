@@ -212,7 +212,7 @@ class Joel:
 '''
 
 --!>
-##
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joel-Java" height="50" width="70" src="https://github.com/JoelSepulvedaMartins/AssetsMain/blob/main/icons8-logo-java-coffee-cup.gif">
@@ -225,7 +225,7 @@ class Joel:
   <img align="center" alt="Joel-Linux" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
-##
+
 
 <div> 
   <a href="https://www.instagram.com/jho_erll/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
